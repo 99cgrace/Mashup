@@ -1,0 +1,20 @@
+ /* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+
+img {
+  width: 150px;
+  height: 150px;
+}
+/*set color of heading*/
+h1{
+  color: #d0b876;
+  text-align: center ;
+} /*set color of heading*/
+body{
+  background-color: #e4e2dd;
+  font-family: sans-serif;
+} /*changed bg colo and added font*/
+h2 {
+  color: #d5a520;
+  text-align: left;
+} 
